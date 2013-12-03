@@ -23,7 +23,7 @@ Tested on :
 
 ## Screenshot
 
-![](https://github.com/crazy-max/shares-erasor/blob/master/screenshot.png)
+![](https://raw.github.com/crazy-max/shares-erasor/master/screenshot.png)
 
 ## License
 
