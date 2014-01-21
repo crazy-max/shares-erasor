@@ -11,7 +11,7 @@ SETLOCAL EnableDelayedExpansion
 ::  shares and 'Remove all shares' task is to delete hidden, administrative and   ::
 ::  classic shares via the Win32_Share class.                                     ::
 ::                                                                                ::
-::  Copyright (C) 2013 Cr@zy <webmaster@crazyws.fr>                               ::
+::  Copyright (C) 2013-2014 Cr@zy <webmaster@crazyws.fr>                          ::
 ::                                                                                ::
 ::  Shares Erasor is free software; you can redistribute it and/or modify         ::
 ::  it under the terms of the GNU Lesser General Public License as published by   ::
